@@ -1,0 +1,25 @@
+item_id,name,name_zh,category,price,available
+101,Grilled Ribeye Steak (10oz),爐烤肋眼牛排（10盎司）,main,480,1
+102,Pan-Seared Salmon Risotto,煎鮭魚干貝燉飯,main,320,1
+103,Truffle Mushroom Pasta,黑松露野菇義大利麵,main,260,1
+104,Seafood Marinara Spaghetti,茄汁海鮮義大利麵,main,280,1
+105,Roasted Herb Chicken Quarter,香草烤半雞,main,350,1
+106,Creamy Bacon Carbonara,奶油培根蛋黃麵,main,240,0
+201,Deep-Fried Calamari,酥炸黃金魷魚圈,appetizer,180,1
+202,Garlic Butter Wings (6pcs),蒜香奶油雞翅（6隻）,appetizer,160,1
+301,Truffle Parmesan Fries,松露帕瑪森薯條,side,120,1
+302,Caesar Salad with Grilled Chicken,嫩煎雞肉凱薩沙拉,side,180,1
+303,Garlic Herb Bread (4pcs),香蒜麵包（4片）,side,60,1
+304,Seasonal Grilled Vegetables,烤時蔬溫沙拉,side,140,1
+401,Creamy Mushroom Soup,濃郁野菇蘑菇湯,soup,90,1
+402,Classic French Onion Soup,法式洋蔥濃湯,soup,110,1
+403,Seafood Chowder,招牌海鮮濃湯,soup,120,1
+501,Sparkling Lemonade,氣泡檸檬飲,drink,90,1
+502,Iced Mixed Berry Tea,冰莓果特調茶,drink,100,1
+503,House Red Wine (Glass),餐廳特選紅酒（杯）,drink,180,1
+504,Craft Pale Ale,精釀白啤酒,drink,160,1
+505,Iced Americano,冰美式咖啡,drink,80,1
+506,Fresh Orange Juice,100% 鮮榨柳橙汁,drink,90,1
+601,Classic Tiramisu,義式提拉米蘇,dessert,120,1
+602,Molten Lava Chocolate Cake,爆漿熔岩巧克力蛋糕,dessert,140,1
+603,Creme Brulee,法式焦糖烤布蕾,dessert,90,1
